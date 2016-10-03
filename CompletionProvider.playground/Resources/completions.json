@@ -1,0 +1,21 @@
+{
+    "CompletionEntries": [
+                          {
+                          "completionType": 0,
+                          "title": "sin",
+                          "description": "The sinus function",
+                          "arguments": "angle in radians"
+                          },
+                          {
+                          "completionType": 0,
+                          "title": "cos",
+                          "description": "The cos function",
+                          "arguments": "angle in radians"
+                          },
+                          {
+                          "completionType": 1,
+                          "title": "pi",
+                          "description": "The pi constant"
+                          }
+                          ]
+}
